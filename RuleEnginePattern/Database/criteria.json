@@ -1,0 +1,8 @@
+{
+  "MinimumAge": 18,
+  "BackgroundIllness": [
+    "Astma",
+    "Hepatitis"
+  ],
+  "Residence": "Israel"
+}
